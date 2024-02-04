@@ -1,6 +1,15 @@
 {
   "data": [
       {
+         "server_id": "",
+         "channel_id": "",
+         "user_word": "",
+         "first_letter": "",
+         "word_exists": [
+                {
+                    "word": ""
+                }
+             ]
       }   
     ]
   }
